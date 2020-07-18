@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Algorithms Fourth Edition
+- 🌱 I’m currently learning [Algorithms Fourth Edition](https://algs4.cs.princeton.edu/home/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Youngxhui's github stats](https://github-readme-stats.vercel.app/api?username=youngxhui)](https://github.com/youngxhui/github-readme-stats)
