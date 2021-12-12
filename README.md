@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youngxhui" alt="youngxhui" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youngxhui&show_icons=true&theme=dark&locale=en&layout=compact" alt="youngxhui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youngxhui&show_icons=true&theme=dark&locale=en&layout=compact&hide=ipynb,html" alt="youngxhui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngxhui&show_icons=true&theme=dark&locale=en&hide=ipynb,html" alt="youngxhui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngxhui&show_icons=true&theme=dark&locale=en" alt="youngxhui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngxhui&theme=dark" alt="youngxhui" /></p>
 
