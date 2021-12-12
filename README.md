@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvim配置](http://youngxhui.top/2021/10/nvim%E9%85%8D%E7%BD%AE/)
+- [Baidu实习纪](http://youngxhui.top/2021/09/baidu%E5%AE%9E%E4%B9%A0%E7%BA%AA/)
+- [Go程序设计语言读书笔记](http://youngxhui.top/2021/05/go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/)
+- [manjaro折腾记](http://youngxhui.top/2021/01/manjaro-%E6%8A%98%E8%85%BE%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
