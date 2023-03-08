@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '20 19 1-31 * *'
+        - cron: '24 11 1-31 * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
