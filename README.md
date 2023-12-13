@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [neovim入门指南&lpar;三&rpar;：LSP配置&lpar;上&rpar;](http://youngxhui.top/2023/09/neovim-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%B8%89lsp%E9%85%8D%E7%BD%AE%E4%B8%8A/)
 - [neovim入门指南&lpar;二&rpar;：常用插件](http://youngxhui.top/2023/08/neovim-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%BA%8C%E5%B8%B8%E8%A7%81%E6%8F%92%E4%BB%B6/)
 - [neovim入门指南&lpar;一&rpar;：基础配置](http://youngxhui.top/2023/07/neovim-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-%E4%B8%80/)
 - [Gin源码分析一:引擎 Engine](http://youngxhui.top/2023/06/gin%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%80/)
 - [HTTP 源码解析](http://youngxhui.top/2023/04/http%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
-- [vim 学习路径](http://youngxhui.top/2022/09/vim%E5%85%A5%E9%97%A8/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
