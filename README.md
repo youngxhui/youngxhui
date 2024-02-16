@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [neovim入门指南&lpar;三&rpar;：LSP配置&lpar;上&rpar;](http://youngxhui.top/2023/09/neovim-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%B8%89lsp%E9%85%8D%E7%BD%AE%E4%B8%8A/)
+- [neovim入门指南&lpar;三&rpar;：LSP配置&lpar;上&rpar;](http://youngxhui.top/2023/09/neovim-beginners-guide-part-three-lsp-configuration-part-one/)
 - [neovim入门指南&lpar;二&rpar;：常用插件](http://youngxhui.top/2023/08/nvim-guideline-2plugins/)
 - [neovim入门指南&lpar;一&rpar;：基础配置](http://youngxhui.top/2023/07/nvim-guideline-1basic-config/)
 - [Gin源码分析一:引擎 Engine](http://youngxhui.top/2023/06/gin%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%80/)
