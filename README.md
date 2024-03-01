@@ -10,10 +10,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [neovim入门指南&lpar;三&rpar;：LSP配置&lpar;上&rpar;](http://youngxhui.top/2023/09/neovim-beginners-guide-part-three-lsp-configuration-part-one/)
+- [Neovim Beginner&#39;s Guide &lpar;Part 3&rpar;: LSP Configuration &lpar;Part 1&rpar;](http://youngxhui.top/en/2023/09/neovim-beginners-guide-part-three-lsp-configuration-part-one/)
 - [neovim入门指南&lpar;二&rpar;：常用插件](http://youngxhui.top/2023/08/nvim-guideline-2plugins/)
+- [Neovim Beginner&#39;s Guide &lpar;Part 2&rpar;: Common Plugins](http://youngxhui.top/en/2023/08/nvim-guideline-2plugins/)
 - [neovim入门指南&lpar;一&rpar;：基础配置](http://youngxhui.top/2023/07/nvim-guideline-1basic-config/)
-- [Gin源码分析一:引擎 Engine](http://youngxhui.top/2023/06/gin%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%80/)
-- [HTTP 源码解析](http://youngxhui.top/2023/04/http%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
