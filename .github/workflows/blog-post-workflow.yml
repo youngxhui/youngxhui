@@ -7,8 +7,17 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
+              # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+        
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://youngxhui.top/index.xml,https://youngxhui.top/en/index.xml"
+                feed_list: "https://youngxhui.top/index.xml,https://youngxhui.top/en/index.xml"      
+            - name: generate github-contribution-grid-snake.svg
+              uses: Platane/snk/svg-only@v3
+              with:
+                  github_user_name: youngxhui
+                  outputs: |
+                    dist/github-contribution-grid-snake.svg
+                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
