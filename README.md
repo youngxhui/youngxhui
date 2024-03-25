@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Theory](https://youngxhui.top/en/2024/03/distributed-theory/)
+- [分布式理论](https://youngxhui.top/2024/03/distributed-theory/)
 - [neovim入门指南&lpar;四&rpar;：LSP配置&lpar;下&rpar;](https://youngxhui.top/2024/03/beginner--guide-to-neovim-part-four-lsp-configuration-ii/)
 - [Neovim Beginner&#39;s Guide &lpar;Part 4&rpar;: LSP Configuration &lpar;II&rpar;](https://youngxhui.top/en/2024/03/beginner--guide-to-neovim-part-four-lsp-configuration-ii/)
 - [neovim入门指南&lpar;三&rpar;：LSP配置&lpar;上&rpar;](https://youngxhui.top/2023/09/neovim-beginners-guide-part-three-lsp-configuration-part-one/)
-- [Neovim Beginner&#39;s Guide &lpar;Part 3&rpar;: LSP Configuration &lpar;I&rpar;](https://youngxhui.top/en/2023/09/neovim-beginners-guide-part-three-lsp-configuration-part-one/)
-- [neovim入门指南&lpar;二&rpar;：常用插件](https://youngxhui.top/2023/08/nvim-guideline-2plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
